@@ -6,5 +6,3 @@ public class DelegateExercises
     {
         System.Console.WriteLine(MyDelegate.ToString());
     }
-}
-Output
